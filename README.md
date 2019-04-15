@@ -14,14 +14,15 @@ The instructions provided by Viagogo:
 - You are required to write a program which accepts a user location as a pair of co-ordinates, and returns a list of the five closest events, along with the cheapest ticket price for each event
 
 *Example Program Run*
-
-```Please Input Coordinates:
+```cmd
+Please Input Coordinates:
 
 > 4,2
 Closest Events to (4,2):
 Event 003 - $30.29, Distance 3
 Event 001 - $35.20, Distance 5
-Event 006 - $01.40, Distance 12```
+Event 006 - $01.40, Distance 12
+```
 
 ## Getting Started
 
