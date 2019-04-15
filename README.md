@@ -1,5 +1,5 @@
 # Viagogo-Intern-Test
-This project was part of the interview process for undergraduate placement schemes at Viagogo. 
+This project was part of the interview process for undergraduate placement schemes at Viagogo. (June 2017)
 
 The scenario provided for this project by Viagogo:
 - Your program should randomly generate seed data
